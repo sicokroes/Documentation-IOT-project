@@ -1,5 +1,5 @@
 # Les 1 Dinsdag 24 November
-Wat is IOT? IOT is iets wat je fysiek kunt toepassen en wat gebruikt wordt door (The) Internet of things. 
+Wat is IOT?: 'IOT is iets wat je fysiek kunt toepassen en wat gebruikt wordt door (The) Internet of things'. 
 Aan het eind van dit keuzenvak moet de vraag kunnen beantwoorden over Data Science voor IOT: 'What is it, How it works and what can you do with it. De context hierin is vrij. 
 
 Over data science: 
