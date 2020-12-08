@@ -19,9 +19,11 @@ Veel van de 'huidige' maatschappelijke en wetenschappelijke vraagstukken zijn 'd
 Als je in het kort zou vertalen wat Data Science nou eigenlijk is dan is het niets meer dan menselijk gedrag te automatiseren en om te zetten voor computers.
 
 # Les 2 Dinsdag 1 December
-Hoe ziet een IOT project eruit en wat heb je er bij nodig? Ten eeerste kwam ik erachter dat je CPU nodig hebt voor ene IOT project, oftewel een processor. Alle PC's bezitten over een oboardding systeem met een CPU. Ik weet dat ik een Microcontroller nodig heb, een Raspberri Pi in dit geval. Een HDMI (voor een muis en keyboard.) een Micro SD kaart waar het operating systeem op opgeslagen wordt. Het beste is als ik daarvoor een SD kaart heb met of met meer dan 8 gb en kwaliteit 10. Dan moet ik daarvoor Etcher instaleren zodat ik de SD kaart kan bewerken. Dat bewerken doe ik met de terminal dit operating system waarmee ik comando's kan geven. Als ik wil communiceren tussen een extern device en de Raspberry Pi dan moet ik hem Enabelen. Dan kan ik er verschillende type sensoren koppelen, wat in de toekomst vanpas kan komen voor dit project. 
+Hoe ziet een IOT project eruit en wat heb je er bij nodig? Ten eeerste kwam ik erachter dat je CPU nodig hebt voor ene IOT project, oftewel een processor. Alle PC's bezitten over een oboardding systeem met een CPU. Ik weet dat ik een Microcontroller nodig heb, een Raspberri Pi in dit geval. Een HDMI (voor een muis en keyboard.) een Micro SD kaart waar het operating systeem op opgeslagen wordt. Het beste is als ik daarvoor een SD kaart heb met of met meer dan 8 gb en kwaliteit 10. 
 
-## Stap 1 Instaleren van operating systeem op SD kaart 
+Dan moet ik daarvoor Etcher instaleren zodat ik de SD kaart kan bewerken. Dat bewerken doe ik met de terminal dit operating system waarmee ik comando's kan geven. Als ik wil communiceren tussen een extern device en de Raspberry Pi dan moet ik hem Enabelen. Dan kan ik er verschillende type sensoren koppelen, wat in de toekomst vanpas kan komen voor dit project. 
+
+### Stap 1 Instaleren van operating systeem op SD kaart 
 
 
 
